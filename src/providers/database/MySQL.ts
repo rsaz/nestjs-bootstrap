@@ -1,0 +1,5 @@
+class MySQL {
+
+}
+
+export { MySQL };
